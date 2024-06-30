@@ -1,4 +1,12 @@
-## Hi there 👋
+# <div style="text-align: center;"><p>¡Hola a todos! 👋 <p><p>Espero que estén teniendo un día tan increíble como un lunes con café gratis ☕.</p> <img src="coffee.gif" height="100"> </div>
+
+# ¿Necesitas contactarme? Encuéntrame aquí:
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<a href="mailto:cesarcruzcanul210203@gmail.com"></a>)
+
+
+
+
 
 <!--
 **CesarCruzGH/CesarCruzGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
