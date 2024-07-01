@@ -1,27 +1,10 @@
-# <div style="text-align: center;"><p>¡Hola a todos! 👋 <p><p>Espero que estén teniendo un día tan increíble como un lunes con café gratis ☕.</p> <img src="coffee.gif" height="100"> </div>
+<h1 align="center">¡Hola a todos! <img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-# ¿Necesitas contactarme? Encuéntrame aquí:
+¡Bienvenido a mi perfil! Soy un estudiante de Ingeniería en Sistemas en formación, actualmente estudiando en el Instituto Tecnológico Superior Campus Progreso. Explorando un poco de todo en busca de mi camino. ¡Gracias por visitar
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<a href="mailto:cesarcruzcanul210203@gmail.com"></a>)
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
+# ¿Necesitas contactarme? 🔎
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesarcruzcanul210203@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/uriel89_?igsh=cGdwN244NHh3aXJv)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@alejoletters)
 
-
-
-
-<!--
-**CesarCruzGH/CesarCruzGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
